@@ -1,0 +1,2 @@
+# stupid-bot
+THE CODE FOR STUPID-BOT
